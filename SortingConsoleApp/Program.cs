@@ -18,11 +18,11 @@ namespace SortingConsoleApp
             //Console.WriteLine("insertion sort duration:");
             //DateTime endTime = DateTime.Now;
             //TimeSpan Duration = endTime.TimeOfDay - startTime.TimeOfDay;
-            //WriteFile("C:/Users/Edwar/OneDrive - Swinburne University/Diploma/PRG/week 16/weekly task - algorithms/sorted_numbers.csv", sortednums);
+            //WriteFile("C:/Users/Edwar/OneDrive - Swinburne University/Diploma/PRG/week 16/weekly task - algorithms/sorted_numbers.csv", sortednums); //change filepath to appropriate
             //Console.WriteLine(Duration);
             //Console.ReadLine();
 
-            int[] sortedNums = ReadFile("C:/Users/Edwar/OneDrive - Swinburne University/Diploma/PRG/week 16/weekly task - algorithms/sorted_numbers.csv");
+            int[] sortedNums = ReadFile("C:/Users/Edwar/OneDrive - Swinburne University/Diploma/PRG/week 16/weekly task - algorithms/sorted_numbers.csv");//change to appropriate filepath
             TimeSpan start = DateTime.Now.TimeOfDay;
             Console.ReadLine();
             start = DateTime.Now.TimeOfDay;
