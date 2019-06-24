@@ -1,0 +1,7 @@
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.exe.config
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.exe
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.pdb
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\obj\Debug\SortingConsoleApp.csprojAssemblyReference.cache
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\obj\Debug\SortingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\obj\Debug\SortingConsoleApp.exe
+C:\Users\Edwar\OneDrive - Swinburne University\Diploma\PRG\week 16\weekly task - algorithms\WeeklySorting\SortingConsoleApp\SortingConsoleApp\obj\Debug\SortingConsoleApp.pdb
